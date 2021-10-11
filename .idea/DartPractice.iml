@@ -10,5 +10,6 @@
     <orderEntry type="module" module-name="PythonPractice" />
     <orderEntry type="module" module-name="Zookeeper" />
     <orderEntry type="module" module-name="social" />
+    <orderEntry type="module" module-name="DjangoAuthentication" />
   </component>
 </module>

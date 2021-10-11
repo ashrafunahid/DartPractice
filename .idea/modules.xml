@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DartPractice.iml" filepath="$PROJECT_DIR$/.idea/DartPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DjangoAuthentication/.idea/DjangoAuthentication.iml" filepath="$PROJECT_DIR$/../DjangoAuthentication/.idea/DjangoAuthentication.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PythonPractice/.idea/PythonPractice.iml" filepath="$PROJECT_DIR$/../PythonPractice/.idea/PythonPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Zookeeper/.idea/Zookeeper.iml" filepath="$PROJECT_DIR$/../Zookeeper/.idea/Zookeeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/../bubook/.idea/social.iml" filepath="$PROJECT_DIR$/../bubook/.idea/social.iml" />
